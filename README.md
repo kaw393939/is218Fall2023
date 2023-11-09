@@ -1,8 +1,8 @@
-# is218Fall2023
-| Date       | Tuesday Sign-in | Thursday Sign-in |
+# is218Fall2023Water
+| Date       | 	    Kevin      | Thursday Sign-in |
 |------------|-----------------|------------------|
-| Nov 7, 2023|    X            |                  |
-| Nov 9, 2023|                 |                  |
+| Nov 7, 2023|                 |                  |
+| Nov 9, 2023|      X          |                  |
 | Nov 14, 2023|                |                  |
 | Nov 16, 2023|                |                  |
 | Nov 21, 2023|                |                  |
